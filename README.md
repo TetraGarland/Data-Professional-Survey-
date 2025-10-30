@@ -1,5 +1,3 @@
----
-
 # Power BI – Data-Professional Survey Dashboard  
 
 **Beginner-level Power BI project** built from a **real-world survey of ~630 data professionals** (collected via LinkedIn / X).  
