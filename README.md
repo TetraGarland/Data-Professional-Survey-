@@ -1,11 +1,3 @@
-<img src="screenshots/dashboard_full.png" alt="Power BI Dashboard – Data Professional Survey" width="100%"/>
-
----
-
-[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
-[![DAX](https://img.shields.io/badge/DAX-E51400?style=for-the-badge)](https://docs.microsoft.com/en-us/dax/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-
 ---
 
 # Power BI – Data-Professional Survey Dashboard  
